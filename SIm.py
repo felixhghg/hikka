@@ -3,11 +3,7 @@ import copy
 import math
 
 
-# Создаем экземпляр класса AbBot
 
-
-
-# Создаем экземпляр класса Board
 def strt():
     
     
